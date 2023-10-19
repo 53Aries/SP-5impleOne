@@ -9,7 +9,7 @@ https://github.com/rolohaun/SimpleCore
 https://zerog.one/
 
 
-XY Joints:
+  XY Joints:
 2- Gates 6mm smooth pulley
 2- Gates 6mm toothed pulley
 4- 5x30 pin
