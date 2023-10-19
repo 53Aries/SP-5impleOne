@@ -8,6 +8,7 @@ This is a mix of Rolohaun SimpleCore and ZeroG MercuryOne.1
 https://github.com/rolohaun/SimpleCore
 https://zerog.one/
 
+
 XY Joints:
 2- Gates 6mm smooth pulley
 2- Gates 6mm toothed pulley
