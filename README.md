@@ -7,12 +7,12 @@ This is a mix of Rolohaun SimpleCore and ZeroG MercuryOne.1
   https://github.com/rolohaun/SimpleCore
   https://zerog.one/
 
-	XY Joints:
-	2- Gates 6mm smooth pulley
-	2- Gates 6mm toothed pulley
-	4- 5x30 pin
-	4- 1mm shim(use parts of original printer or purchase)
-	6- m3x30 hex head screw
-	6- m3 heatset insert
-	*Print 4 of XY bushing
-	*Print 1 each of LH top, LH bottom, RH top, RH bottom
+XY Joints:
+2- Gates 6mm smooth pulley
+2- Gates 6mm toothed pulley
+4- 5x30 pin
+4- 1mm shim(use parts of original printer or purchase)
+6- m3x30 hex head screw
+6- m3 heatset insert
+*Print 4 of XY bushing
+*Print 1 each of LH top, LH bottom, RH top, RH bottom
