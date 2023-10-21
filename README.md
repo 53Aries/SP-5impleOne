@@ -6,7 +6,12 @@ No hard modifications are required such as cutting, drilling, or otherwise alter
 
 This is a mix of Rolohaun SimpleCore and ZeroG MercuryOne.1
 https://github.com/rolohaun/SimpleCore
-https://zerog.one/
+https://zerog.one/  
+
+https://youtu.be/QWlmwpVJ_aM?si=x7BQjdNxMY805M1_    
+
+    
+
 
 
 XY Joints:  
